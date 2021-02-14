@@ -38,8 +38,16 @@
 
 ![screenshot-of-mainpage](./assets/images/updated1.png)
 - Main page
+![screenshot-of-CV](./assets/images/CV.png)
+- CV
+![screenshot-of-portfolio-page](./assets/images/updatedportfolio.png)
+- Portfolio
+![screenshot-of-contact](./assets/images/contact2.png)
+- Contact
+---
 
-
+## License
+* This project is licensed under the terms of MIT License.
 
 
 
