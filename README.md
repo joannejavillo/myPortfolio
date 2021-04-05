@@ -39,7 +39,7 @@
 
 ## Screenshots:
 
-![screenshot-of-mainpage](./assets/images/updated1.png)
+![screenshot-of-mainpage](./assets/images/portfolio1.png)
 - Main page
 ![screenshot-of-CV](./assets/images/screenshotCV.png)
 - CV
