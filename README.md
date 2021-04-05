@@ -3,28 +3,28 @@
 ![License](https://img.shields.io/badge/License-MIT-purple)
 
 --- 
-
-### Table of Contents
-### Overview
-### Technologies
-### Acceptance Criteria
-### Links
-### Screenshots of the app
-### License
+## Description
+- [Description](#Description)
+  - [Technologies](#Technologies)
+  - [Acceptance Criteria](#AcceptanceCriteria)
+  - [Links](#Links)
+  - [Screenshots](#Screenshots)
+  - [License](#License)
+  - [Questions](#Questions)
 ---
 
-## Overview
+## Description
 * This is an updated porfolio of one of my first projects - my bio. 
 * This portfolio also features some of the projects that I did
 ---
 
-## Technologies Use
+## Technologies
 * Bootstrap
 * JS
 * CSS
 ---
 
-## Acceptance Criteria
+## AcceptanceCriteria
 * It should include projects that I did
 * An Updated portfolio
 * Resume
@@ -35,7 +35,7 @@
 * GitHub: [https://github.com/joannejavillo/myPortfolio]
 * Deployed Link of Portfolio: [https://joannejavillo.github.io/myPortfolio/]
 * LinkedIN: [https://www.linkedin.com/in/jo-anne-javillo-b88103206/]
-* Resume: [./assets/cv/joannejavillo_IT.pdf]
+* Resume: [./assets/cv/joannejavillo_IT.pdf/]
 
 ## Screenshots:
 
@@ -53,6 +53,7 @@
 ## License
 * This project is licensed under the terms of MIT License.
 
-
+## Questions
+If you have any questions you can contact me at jo_anne.javillo@outlook.com or you can visit my gitHub page: (https://github.com/joannejavillo)
 
 
