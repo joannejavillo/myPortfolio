@@ -1,5 +1,8 @@
 # myPortfolio
 ---
+![License](https://img.shields.io/badge/License-MIT-purple)
+
+--- 
 
 ### Table of Contents
 ### Overview
@@ -32,13 +35,13 @@
 * GitHub: [https://github.com/joannejavillo/myPortfolio]
 * Deployed Link of Portfolio: [https://joannejavillo.github.io/myPortfolio/]
 * LinkedIN: [https://www.linkedin.com/in/jo-anne-javillo-b88103206/]
-* Resume: [assets/cv/joannejavillo_IT.pdf]
+* Resume: [./assets/cv/joannejavillo_IT.pdf]
 
 ## Screenshots:
 
 ![screenshot-of-mainpage](./assets/images/updated1.png)
 - Main page
-![screenshot-of-CV](./assets/images/CV.png)
+![screenshot-of-CV](./assets/images/screenshotCV.png)
 - CV
 ![screenshot-of-portfolio-page](./assets/images/updatedportfolio.png)
 - Portfolio
