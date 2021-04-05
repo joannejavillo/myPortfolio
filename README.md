@@ -4,7 +4,7 @@
 
 --- 
 ## Description
-- [Description](#Description)
+  - [Description](#Description)
   - [Technologies](#Technologies)
   - [Acceptance Criteria](#AcceptanceCriteria)
   - [Links](#Links)
