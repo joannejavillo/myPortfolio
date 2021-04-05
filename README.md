@@ -32,7 +32,7 @@
 * GitHub: [https://github.com/joannejavillo/myPortfolio]
 * Deployed Link of Portfolio: [https://joannejavillo.github.io/myPortfolio/]
 * LinkedIN: [https://www.linkedin.com/in/jo-anne-javillo-b88103206/]
-* Resume: [assets/cv/joannejavillo_CV(SA).pdf]
+* Resume: [assets/cv/joannejavillo_IT.pdf]
 
 ## Screenshots:
 
