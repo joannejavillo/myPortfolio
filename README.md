@@ -46,7 +46,7 @@
 ![screenshot-of-portfolio-page-1](./assets/images/project1.png)
 ![screenshot-of-portfolio-page-1](./assets/images/project2.png)
 - Portfolio
-![screenshot-of-contact](./assets/images/contact2.png)
+![screenshot-of-contact](./assets/images/updatedcontact.png)
 - Contact
 ---
 
